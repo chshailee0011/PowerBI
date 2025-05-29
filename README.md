@@ -1,5 +1,5 @@
 # PowerBI
-# PowerBI# 👋 Hi, I'm Shailee
+👋 Hi, I'm Shailee
 A passionate Data Scientist with expertise in Python, Machine Learning, and Data Visualization.
 
 ## 🔧 Skills
